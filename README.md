@@ -1,5 +1,5 @@
 Link for Site :- 
-* [ADILET.ORG](http://adilet.org/algos/)
+* [adilet.org](http://adilet.org/algos/)
 
 Collection of different algorithms, used for programming competitions (like ACM ICPC).
 
